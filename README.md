@@ -1,5 +1,5 @@
 # Advanced Signal Processing Laboratory
- My solutions to the assignments of Tampere University's COMP.SGN.240 Advanced Signal Processing Laboratory in 2023-2024.
+ This repository contains implementations related to digital holography and signal processing.
  
  Assignments include such topics:
  

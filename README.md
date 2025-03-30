@@ -1,7 +1,7 @@
-# Advanced Signal Processing Laboratory
+# Advanced Signal Processing
  This repository contains implementations related to digital holography and signal processing.
  
- Assignments include such topics:
+ Topics covered:
  
   `#1:` Characterizing holographic displays via numerical simulations 
 

@@ -1,4 +1,4 @@
-# Advanced Signal Processing
+# Advanced Digital Signal Processing
  This repository contains implementations related to digital holography and signal processing.
  
  Topics covered:
